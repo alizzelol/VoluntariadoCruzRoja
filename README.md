@@ -1,4 +1,5 @@
 VOLUNTARIADO CRUZ ROJA
+
 Ésta es una aplicación en proceso para ayudar a mejorar la organización en la Cruz Roja para que los Jefes de Departamento de Voluntariado puedan asignar las tareas a los voluntarios en un entorno en el que podrán elegir qué tareas hacer para ayudar a los usuarios y no tener que aceptar una fecha y hora en concreto.
 La aplicación sigue en proceso, pero se pueden apreciar hasta aquí:
 - Un Login para acceder a la aplicación, puesto que se trata de una app privada.
