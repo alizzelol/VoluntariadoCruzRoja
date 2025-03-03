@@ -8,4 +8,5 @@ La aplicación sigue en proceso, pero se pueden apreciar hasta aquí:
 - Rol de Voluntario:
 + Accedes a un calendario aún por configurar y los botones "Mis Eventos" y "Lista de Eventos".
 + El voluntario tan solo tiene que accedes a la lista de Eventos y decirdir si quiere hacer algún evento, si es así, el evento pasa a su lista "Mis Eventos", y desde ahí podrá borrarla al hacer el evento.
+
 El proyecto no está en producción.
