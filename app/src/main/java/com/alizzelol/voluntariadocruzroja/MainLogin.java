@@ -126,10 +126,6 @@ public class MainLogin extends AppCompatActivity {
         return rol;  // Retorna el rol obtenido
     }
 
-    /**
-     * Método para redirigir al usuario según su rol.
-     * @param rol El rol del usuario que ha iniciado sesión
-     */
     private void obtenerRol(String rol) {
         Intent intent;
         switch (rol) {
