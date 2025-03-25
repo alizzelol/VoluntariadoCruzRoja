@@ -1,24 +1,24 @@
 ## Voluntariado Cruz Roja
-# Introducción
 
-Esta es una aplicación creada para mejorar la organización de la Cruz Roja en cuanto a la distribución de tareas a los voluntarios por parte de los jefes de voluntariado. En la Cruz Roja, tienen que llamar de uno en uno a los voluntarios para asignarles una tarea para ayudar a los usuarios que están bajo la protección de la Cruz Roja.
+# Introduction
 
-# Objetivos
+This is an application created to improve the organization of the Red Cross regarding the distribution of tasks to volunteers by volunteer leaders. At the Red Cross, they have to call volunteers one by one to assign them a task to help users who are under the protection of the Red Cross.
 
-* ** El Registro de usuario se lleva a cabo por los jefes de voluntariado (administradores), por lo que solo aquellas personas inscritas pueden ingresar en la aplicación.
-* ** Los administradores gestionan los usuarios y los eventos (tareas a realizar por parte de los voluntarios).
-* ** Los voluntarios pueden visualizar los eventos disponibles a realizar.
-* ** Los voluntarios pueden apuntarse a los eventos
+# Objectives
 
-# Estructura
+* User registration is carried out by volunteer leaders (administrators), so only registered people can enter the application.
+* Administrators manage users and events (tasks to be performed by volunteers).
+* Volunteers can view available events to be performed.
+* Volunteers can sign up for events.
 
-* ** Inicio Sesión, solo para aquellas personas registradas por los administradores
-* ** Dos Roles: admin y vol
-    * ** Admin -> gestionan los usuarios y eventos
-    * ** Vol -> pueden apuntarse a los eventos disponibles
+# Structure
 
-# Contribución
+* Login, only for those people registered by administrators.
+* Two Roles: admin and vol
+    * Admin: manage users and events
+    * Vol: can sign up for available events
 
-Para poder contribuir en la aplicación, se puede acceder a través de la [apk](https://drive.google.com/drive/folders/1SOzhkbIxAOfZOzz7l7oRPK18dkZXWJlo)
+# Contribution
 
+To be able to contribute to the application, you can access it through the [apk](https://drive.google.com/drive/folders/1SOzhkbIxAOfZOzz7l7oRPK18dkZXWJlo)
 
