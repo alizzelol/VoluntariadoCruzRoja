@@ -1,30 +1,24 @@
-# VOLUNTARIADO CRUZ ROJA
+## Voluntariado Cruz Roja
+# Introducción
 
-## Introduction
-This is an application created to improve the organization at the Asociation Red Cross. 
-At the moment, in the Red Cross, when you're a volunteer, the call you to set up a date and a time to carry out an event to help an user at the care of the Red Cross. My idea is to have an app where the Departament's head of the Voluntary can upload the events, setting the dates and times when they'll have to be made and the volunteers chose witch one they'll want to do.
+Esta es una aplicación creada para mejorar la organización de la Cruz Roja en cuanto a la distribución de tareas a los voluntarios por parte de los jefes de voluntariado. En la Cruz Roja, tienen que llamar de uno en uno a los voluntarios para asignarles una tarea para ayudar a los usuarios que están bajo la protección de la Cruz Roja.
 
-## Goals
-The goals of this application:
-- To access been registered by the Department's head of the Voluntary, so only profesionals and volunteers will have access to the app.
-- Profesionals can handle the users and events registered from the application.
-- Volunteers can have access to the events uploads by the professional.
-- Volunteers can sign up for the events they will want to do.
+# Objetivos
 
-## Structure
-This application have:
-- Login to access the application by a private record.
-- Two Rols: Admin(professional) and vol (volunteer)
-- Admin:
-  + They can access the application to register the users and the events.
-- Vol:
-  + They can access the application to take a look at the events uploaded by the professional and sign up to them.
-- Login para acceder a la aplicación, puesto que se trata de una app privada.
+* ** El Registro de usuario se lleva a cabo por los jefes de voluntariado (administradores), por lo que solo aquellas personas inscritas pueden ingresar en la aplicación.
+* ** Los administradores gestionan los usuarios y los eventos (tareas a realizar por parte de los voluntarios).
+* ** Los voluntarios pueden visualizar los eventos disponibles a realizar.
+* ** Los voluntarios pueden apuntarse a los eventos
 
-## Contribution
-To access the details of the app:
-[apk](https://drive.google.com/drive/folders/1jZTGFDaIsUlm-OoQ9xdf54yOyTZ5vaEj)
+# Estructura
 
+* ** Inicio Sesión, solo para aquellas personas registradas por los administradores
+* ** Dos Roles: admin y vol
+    * ** Admin -> gestionan los usuarios y eventos
+    * ** Vol -> pueden apuntarse a los eventos disponibles
 
+# Contribución
+
+Para poder contribuir en la aplicación, se puede acceder a través de la [apk](https://drive.google.com/drive/folders/1SOzhkbIxAOfZOzz7l7oRPK18dkZXWJlo)
 
 
